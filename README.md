@@ -1,7 +1,7 @@
 # Wrangle and Analyze Data
 Wrangle and Analyze Data - WeRateDogs twitter account
 
-[Preview Report](https://cdn.rawgit.com/latinacode/Wrangle-and-Analyze-Data/f3a9b664/act_report.pdf)
+[Preview Report](https://tanmayachaudhary.github.io/Wrangle_and_Analyze_Data_WeRateDogs_twitter_account/act_report.pdf)
 
 ## Project Overview
 ### Introduction
@@ -12,13 +12,14 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
 ### Repository Structure
 ~~~~~~~
         Wrangle_and_Analyze_Data_WeRateDogs_twitter_account
+          |-- wrangle_act.ipynb             # Contains whole code for data wrangling.
           |-- act_report.pdf                # Insights Report.
+          |-- wrangle_act.pdf               # Report of wrangling process.
           |-- image-predictions.tsv
-          |-- README.md      
           |-- tweet_json.txt                # Twitter dataset.    
           |-- twitter_archive_master.csv    # Contains clean data.
-          |-- wrangle_act.ipynb             # Contains whole code for data wrangling.
-          |-- wrangle_act.pdf               # Report of wrangling process.
+          |-- README.md
+          
 ~~~~~~~
 
 
@@ -66,5 +67,5 @@ Each piece of data is imported into a separate pandas DataFrame at first.
 
 ### Report
 Two reports:
-- Wrangling efforts are briefly described in wrangle_report.pdf. [Wrangling Report]()
-- The three (3) or more insights the student found are communicated in act_report.pdf including visualization. [Insights Report]()
+- Wrangling efforts are briefly described in wrangle_report.pdf. [Wrangling Report](https://tanmayachaudhary.github.io/Wrangle_and_Analyze_Data_WeRateDogs_twitter_account/wrangle_act.pdf)
+- The three (3) or more insights the student found are communicated in act_report.pdf including visualization. [Insights Report](https://tanmayachaudhary.github.io/Wrangle_and_Analyze_Data_WeRateDogs_twitter_account/act_report.pdf)
