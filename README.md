@@ -14,7 +14,7 @@ WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exc
         Wrangle_and_Analyze_Data_WeRateDogs_twitter_account
           |-- wrangle_act.ipynb             # Contains whole code for data wrangling.
           |-- act_report.pdf                # Insights Report.
-          |-- wrangle_act.pdf               # Report of wrangling process.
+          |-- wrangle_report.pdf               # Report of wrangling process.
           |-- image-predictions.tsv
           |-- tweet_json.txt                # Twitter dataset.    
           |-- twitter_archive_master.csv    # Contains clean data.
@@ -67,5 +67,5 @@ Each piece of data is imported into a separate pandas DataFrame at first.
 
 ### Report
 Two reports:
-- Wrangling efforts are briefly described in wrangle_report.pdf. [Wrangling Report](https://tanmayachaudhary.github.io/Wrangle_and_Analyze_Data_WeRateDogs_twitter_account/wrangle_act.pdf)
+- Wrangling efforts are briefly described in wrangle_report.pdf. [Wrangling Report](https://tanmayachaudhary.github.io/Wrangle_and_Analyze_Data_WeRateDogs_twitter_account/wrangle_report.pdf)
 - The three (3) or more insights the student found are communicated in act_report.pdf including visualization. [Insights Report](https://tanmayachaudhary.github.io/Wrangle_and_Analyze_Data_WeRateDogs_twitter_account/act_report.pdf)
